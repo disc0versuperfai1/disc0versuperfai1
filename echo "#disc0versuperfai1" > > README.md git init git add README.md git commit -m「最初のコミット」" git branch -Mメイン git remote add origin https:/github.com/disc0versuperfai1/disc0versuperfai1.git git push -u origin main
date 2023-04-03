@@ -1,0 +1,7 @@
+echo "#disc0versuperfai1" > > README.md
+git init
+git add README.md
+git commit -m「最初のコミット」"
+git branch -Mメイン
+git remote add origin https://github.com/disc0versuperfai1/disc0versuperfai1.git
+git push -u origin main
